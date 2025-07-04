@@ -1,3 +1,6 @@
 # LTspice
 
-これから作成したLTspiceコードの公開を行う予定です。
+「 Analog  Computer -part3 」のLTspiceプログラムです。
+
+プログラムの詳細につきましてはDOCSWELL「 Analog  Computer -part3 」をご覧ください。
+
